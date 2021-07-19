@@ -59,13 +59,13 @@ params:
     target="_blank">CC BY-NC 4.0</a>
   logo:
     height: 40
-    url: logo.png
+    url: cover.png
     width: 127
   pinterest_verification: ''
   publisher:
     logo:
       height: 40
-      url: logo.png
+      url: cover.png
       width: 127
     name: Fastbyte01
   share:
