@@ -76,12 +76,12 @@ params:
       4.0 International License.
   since: 2012
   social:
-    Facebook: xxxx
-    GitHub: xxxx
-    Linkedin: xxxx
-    Twitter: xxxx
+    #Facebook: xxxx
+    GitHub: "liangliangzhuang"
+    #Linkedin: xxxx
+    Twitter: "zhuanglianglia1"
   socialShare: yes
-  subtitle: A Hugo theme
+  subtitle: Postgraduate; R Lover
   utterances:
     owner: ''
     repo: ''
@@ -97,4 +97,4 @@ params:
     visitor: yes
   yandex_verification: ''
 author:
-  name: Fastbyte01
+  name: Zll
